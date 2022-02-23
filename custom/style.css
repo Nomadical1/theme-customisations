@@ -2,4 +2,10 @@
  * Add any custom CSS here.
  *
  * This file will be loaded after all other theme stylesheets.
- */
+ *
+**/
+.content-area {
+	background: rgba(17,17,17,0.82);
+	position: relative;
+	margin-bottom: 3.631em !important;
+}
